@@ -6,3 +6,8 @@ Sử dụng Google Translate để nói tiếng Việt :D
 sudo curl -o /usr/local/bin "https://raw.githubusercontent.com/zelic91/noi.sh/master/noi.sh" 
 alias noi="/usr/local/bin/noi.sh"
 ```
+
+##Sử dụng
+```
+noi "Nhưng bạn ơi, tiền đâu mà đi?"
+```
