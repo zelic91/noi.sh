@@ -4,6 +4,8 @@ Sử dụng Google Translate để nói tiếng Việt :D Chỉ sử dụng đư
 Cài đặt
 ------
 
+Trước hết, bạn phải cài `NodeJS` trước đã. Hơi ngớ ngẩn nhưng mà bạn phải cài, vậy thôi :)
+
 Chạy các dòng lệnh sau trong Terminal
 
 ```
